@@ -1,0 +1,48 @@
+body {
+    font-family: "Fira Sans", sans-serif;
+    margin: 0;
+    font-weight: 900;
+    font-size: larger;
+}
+
+header {
+    background-color: #d6b000;
+    padding: 1rem 10px;
+    font-weight: bold;
+}
+
+header span {
+    color: #0b880b;
+    font-size: 1.6rem;
+    font-weight: 800;
+}
+
+nav {
+    background-color: #ac5353;
+}
+
+nav ul {
+    margin: 0;
+    list-style-type: none;
+    padding: 0 10px;
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+    
+}
+
+main h1 {
+    color:#0b880b ;
+}
+main h2 {
+    color: #d6b000;
+}
+li {
+    color: #0b880b;
+}
+main p {
+    color: #0b880b;
+}
+ul {
+    font-size: 1rem 50px;
+}
